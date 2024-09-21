@@ -1,0 +1,4 @@
+1;71895656;alexsedano;ALESS SEDANO;sedanoaless@mail.com
+1;71895657;juan;JUAN TAIPE;taipejuan@mail.com
+1;71895346;carlos;CARLOS SEDANO;carlos@mail.com
+1;78655656;dina;DINA CONTRERAS;dina@mail.com

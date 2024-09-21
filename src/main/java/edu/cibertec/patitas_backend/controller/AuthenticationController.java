@@ -1,8 +1,7 @@
 package edu.cibertec.patitas_backend.controller;
 
-import edu.cibertec.patitas_backend.controller.dto.request.LoginRequestDTO;
-import edu.cibertec.patitas_backend.controller.dto.response.LoginResponseDTO;
-import org.springframework.http.HttpStatus;
+import edu.cibertec.patitas_backend.dto.request.LoginRequestDTO;
+import edu.cibertec.patitas_backend.dto.response.LoginResponseDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,6 +1,6 @@
 package edu.cibertec.patitas_backend.service;
 
-import edu.cibertec.patitas_backend.controller.dto.request.LoginRequestDTO;
+import edu.cibertec.patitas_backend.dto.request.LoginRequestDTO;
 import edu.cibertec.patitas_backend.interfaces.AuthenticationInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

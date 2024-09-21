@@ -1,6 +1,6 @@
 package edu.cibertec.patitas_backend.interfaces;
 
-import edu.cibertec.patitas_backend.controller.dto.request.LoginRequestDTO;
+import edu.cibertec.patitas_backend.dto.request.LoginRequestDTO;
 
 import java.io.IOException;
 import java.util.List;

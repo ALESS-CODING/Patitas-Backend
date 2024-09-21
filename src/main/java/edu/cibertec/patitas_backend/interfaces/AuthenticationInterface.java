@@ -1,4 +1,4 @@
-package edu.cibertec.patitas_backend.controller.interfaces;
+package edu.cibertec.patitas_backend.interfaces;
 
 import edu.cibertec.patitas_backend.controller.dto.request.LoginRequestDTO;
 
